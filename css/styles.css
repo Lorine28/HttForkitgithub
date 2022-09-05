@@ -1,6 +1,9 @@
 /* Description: Master CSS file */
 
 
+@import url('https://fonts.googleapis.com/css2?family=Alegreya+Sans:wght@100;300;500&family=Open+Sans:wght@300;400;600&display=swap');
+
+
 /*****************************************
 Table Of Contents:
 - General Styles
@@ -54,10 +57,11 @@ p {
 
 h1 {
     color: #2e1814;
-    font-weight: 700;
+    font-weight: 300;
     font-size: 1.2rem;
     line-height: 3.25rem;
-    font-family: "Poppins";
+    font-family: 'Alegreya Sans', sans-serif;
+
     /* text-align: center; */
 }
 
